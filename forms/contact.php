@@ -4,10 +4,10 @@ use PHPMailer\PHPMailer\Exception;
 
 require '../vendor/autoload.php';
 
-$host = 'localhost';
-$dbname = 'tecnozard';
-$username = 'root';
-$password = '';
+$host = 'tecnozard.com';
+$dbname = 'tecnozar_office_site';
+$username = 'tecnozar_office_site';
+$password = 'kq36KARMSp';
 
 $conn = new mysqli($host, $username, $password, $dbname);
 
