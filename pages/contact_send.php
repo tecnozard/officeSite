@@ -59,7 +59,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
             // Send the email
             if ($mail->send()) {
-                echo "Message sent and stored successfully!";
+                echo "OK";
             } else {
                 echo "Message stored, but email could not be sent.";
             }
