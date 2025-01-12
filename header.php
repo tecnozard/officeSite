@@ -59,6 +59,7 @@
           <li><a href="index.php?page=about" class="<?= $page == 'about' ? 'active' : '' ?>">About</a></li>
           <li><a href="index.php?page=features" class="<?= $page == 'features' ? 'active' : '' ?>">Features</a></li>
           <li><a href="index.php?page=services" class="<?= $page == 'services' ? 'active' : '' ?>">Services</a></li>
+          <li title="Coming soon"><a> Teams</a></li>
           <li><a href="index.php?page=contact" class="<?= $page == 'contact' ? 'active' : '' ?>">Contact</a></li>
         </ul>
         <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
