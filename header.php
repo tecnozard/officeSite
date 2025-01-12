@@ -10,7 +10,7 @@
     <!-- Open Graph Meta Tags -->
     <meta property="og:title" content="Tecnozard Private Limited">
     <meta property="og:description" content="Innovation & Excellence - Harnessing the power of technology to deliver high-impact, scalable solutions for your business.">
-    <meta property="og:image" content="https://tecnozard.com/assets/img/Tecnozard_v1.png">
+    <meta property="og:image" content="https://tecnozard.com/assets/img/TZ logo.png">
     <meta property="og:url" content="https://www.tecnozard.com">
     <meta property="og:type" content="website">
     
@@ -18,7 +18,7 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Tecnozard Private Limited">
     <meta name="twitter:description" content="Innovation & Excellence - Harnessing the power of technology to deliver high-impact, scalable solutions for your business.">
-    <meta name="twitter:image" content="https://tecnozard.com/assets/img/Tecnozard_v1.png">
+    <meta name="twitter:image" content="https://tecnozard.com/assets/img/TZ logo.png">
 
 
   <!-- Favicons -->
