@@ -1,24 +1,22 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <title>Tecnozard | <?= $page ?></title>
-  <meta name="description" content="">
-  <meta name="keywords" content="">
+  <meta name="description" content="Innovation & Excellence - Harnessing the power of technology to deliver high-impact, scalable solutions for your business.">
+  <meta name="keywords" content="Tecnozard">
+  <meta property="og:title" content="Tecnozard Private Limited">
+  <meta property="og:description" content="Innovation & Excellence - Harnessing the power of technology to deliver high-impact, scalable solutions for your business.">
+  <meta property="og:image" content="https://tecnozard.com/assets/img/TZ logo.png">
+  <meta property="og:url" content="https://www.tecnozard.com">
+  <meta property="og:type" content="website">
 
-    <!-- Open Graph Meta Tags -->
-    <meta property="og:title" content="Tecnozard Private Limited">
-    <meta property="og:description" content="Innovation & Excellence - Harnessing the power of technology to deliver high-impact, scalable solutions for your business.">
-    <meta property="og:image" content="https://tecnozard.com/assets/img/TZ logo.png">
-    <meta property="og:url" content="https://www.tecnozard.com">
-    <meta property="og:type" content="website">
-    
-    <!-- Twitter Card Meta Tags (Optional for Twitter sharing) -->
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Tecnozard Private Limited">
-    <meta name="twitter:description" content="Innovation & Excellence - Harnessing the power of technology to deliver high-impact, scalable solutions for your business.">
-    <meta name="twitter:image" content="https://tecnozard.com/assets/img/TZ logo.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Tecnozard Private Limited">
+  <meta name="twitter:description" content="Innovation & Excellence - Harnessing the power of technology to deliver high-impact, scalable solutions for your business.">
+  <meta name="twitter:image" content="https://tecnozard.com/assets/img/TZ logo.png">
 
 
   <!-- Favicons -->
@@ -48,24 +46,24 @@
 
 <body class="index-page">
 
-<header id="header" class="header d-flex align-items-center fixed-top">
-  <div class="container-fluid container-xl position-relative d-flex align-items-center">
+  <header id="header" class="header d-flex align-items-center fixed-top">
+    <div class="container-fluid container-xl position-relative d-flex align-items-center">
 
-    <a href="index.php?page=home" class="logo d-flex align-items-center me-auto">
-      <img src="assets/img/Tecnozard_v1.png" style="width: 200px; height: 50px;" alt="">
-    </a>
+      <a href="index.php?page=home" class="logo d-flex align-items-center me-auto">
+        <img src="assets/img/Tecnozard_v1.png" style="width: 200px; height: 50px;" alt="">
+      </a>
 
-    <nav id="navmenu" class="navmenu">
-      <ul>
-        <li><a href="index.php?page=home" class="<?= $page == 'home' ? 'active' : '' ?>">Home</a></li>
-        <li><a href="index.php?page=about" class="<?= $page == 'about' ? 'active' : '' ?>">About</a></li>
-        <li><a href="index.php?page=features" class="<?= $page == 'features' ? 'active' : '' ?>">Features</a></li>
-        <li><a href="index.php?page=services" class="<?= $page == 'services' ? 'active' : '' ?>">Services</a></li>
-        <li><a href="index.php?page=contact" class="<?= $page == 'contact' ? 'active' : '' ?>">Contact</a></li>
-      </ul>
-      <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
-    </nav>
-  </div>
-</header>
+      <nav id="navmenu" class="navmenu">
+        <ul>
+          <li><a href="index.php?page=home" class="<?= $page == 'home' ? 'active' : '' ?>">Home</a></li>
+          <li><a href="index.php?page=about" class="<?= $page == 'about' ? 'active' : '' ?>">About</a></li>
+          <li><a href="index.php?page=features" class="<?= $page == 'features' ? 'active' : '' ?>">Features</a></li>
+          <li><a href="index.php?page=services" class="<?= $page == 'services' ? 'active' : '' ?>">Services</a></li>
+          <li><a href="index.php?page=contact" class="<?= $page == 'contact' ? 'active' : '' ?>">Contact</a></li>
+        </ul>
+        <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
+      </nav>
+    </div>
+  </header>
 
-<main class="main">
+  <main class="main">
