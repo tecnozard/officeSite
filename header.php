@@ -50,7 +50,7 @@
     <div class="container-fluid container-xl position-relative d-flex align-items-center">
 
       <a href="index.php?page=home" class="logo d-flex align-items-center me-auto">
-        <img src="assets/img/Tecnozard_v1.png" style="width: 200px; height: 50px;" alt="">
+        <img src="assets/img/Tecnozard_v1.png" style="width: 200px; height: 150px;" alt="">
       </a>
 
       <nav id="navmenu" class="navmenu">
