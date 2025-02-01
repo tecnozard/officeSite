@@ -10,7 +10,7 @@
   <meta property="og:title" content="Tecnozard Private Limited">
   <meta property="og:description" content="Innovation & Excellence - Harnessing the power of technology to deliver high-impact, scalable solutions for your business.">
   <meta property="og:image" content="https://tecnozard.com/assets/img/TZ logo.png">
-  <meta property="og:url" content="https://www.tecnozard.com">
+  <meta property="og:url" content="https://www.thikse.com">
   <meta property="og:type" content="website">
 
   <meta name="twitter:card" content="summary_large_image">
